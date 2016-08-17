@@ -1,5 +1,5 @@
 {
-  "name": "parallel-loop",
+  "name": "@gmaclennan/parallel-loop",
   "version": "0.0.2",
   "description": "Loop parallelly",
   "main": "index.js",
